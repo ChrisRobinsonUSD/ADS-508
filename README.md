@@ -1,1 +1,3 @@
 # ADS-506
+
+Global climate change has become an increasing concern and is thought to be responsible for changes in local climates which have negative impacts on local flora and fauna. This paper focusses on local climate conditions in Delhi, India and what effects, if any, they could have on local bird populations. As the population in Delhi, India grows each year, so does traffic congestion and industrial processes which are leading contributors to air pollution. In this project, we will evaluate climate data from Delhi, India to evaluate patterns in climate change that could pose risks to local bird populations. The conditions we are focusing on are temperature, humidity, wind, and barometric pressure, all of which are used to indicate warming and cooling trends.
